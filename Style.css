@@ -1,0 +1,210 @@
+
+body, html{
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+}
+body{
+	overflow-x: hidden;
+}
+a{
+	text-decoration: none;
+	margin: 0px;
+}
+.mediascreen(max-width:1187px){
+	.menu .navbar-nav{
+		margin-left: 15px;
+		display: contents;
+	}
+}
+.navbar{
+	background-color: lightgray;
+}
+.navbar-nav{
+	margin-left: 580px;
+}
+.About_us{
+	margin-left: 600px;
+}
+.overlay_wraper{
+	background-color: rgba(0, 0, 0, 0.7);
+}
+.carousel-caption{
+	margin-bottom:300px;
+	margin-left: -500px;
+}
+.carousel-caption h3{
+	font-size:65px;
+	color: black;
+	margin-bottom: 50px;
+}
+.carousel-caption a{
+	border: 1px;
+	border-radius: 30px;
+	background-color: green;
+	color: white;
+	padding: 15px 50px;
+	text-decoration: none;
+}
+/*h1, h2,h3, h4, h5, h6{
+	margin: 0;
+	padding: 0;
+}*/
+.menu ul{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+}
+.menu ul li{
+	margin: 0;
+	padding: 0;
+}
+.padding_li{
+	margin: 0px 0px 0px 0px;
+}
+.navbar{
+	display: flex;
+	align-content: center;
+}
+.best img{
+}
+.fa-check{
+	color: green;
+	padding: 0px 5px 0px 0px;
+}
+.padding_li li{
+	list-style-type: none;
+	margin-left: -25px;
+	margin-bottom: 10px;
+}
+.organic .our_misson{
+	line-height: 0.5px;
+}
+.organic .btn-success{
+	margin-top: 30px;
+	margin-left: 5px;
+	border-radius: 25px;
+	padding: 10px 25px;
+}
+.more_btn1{
+	border-radius: 20px;
+	border: 1px solid green;
+	text-decoration: none;
+	margin: 20px;
+	padding: 5px 20px;
+	color: green;
+}
+.more_btn1:hover{
+	background-color:green ;
+	color: white;
+}
+.visitfirms .more_btn2{
+	border-radius: 20px;
+	text-decoration: none;
+	margin: 10px 20px 0px 300px;
+	padding: 10px;
+	color: white;
+}
+.visitbutton a{
+	border-radius:30px;
+	background-color: red;
+	color: white;
+	text-decoration: none;
+	padding: 15px 40px;
+	margin-left: 250px;
+}
+.button_wrapper a{
+	background-color: green;
+	border-radius: 50px;
+	color: white;
+	text-decoration: none;
+	padding: 15px 40px;
+}
+.ourfeatures{
+	background-color: lightgray;
+	background-image: url(images/bg-icon.png);
+	margin: 15px 0px 0px 0px;
+}
+.button button{
+	border-radius: 50px;
+	background-color:green;
+	text-decoration: none;
+	margin: 10px;
+	padding: 210px;
+	color: white;
+}
+.visit{
+	margin: 50px 0px 0px 0%px;
+	padding: 15px;
+	background-image: url(images/bg-icon.png);
+}
+.review_hover :hover{
+	background-color:green;
+}
+.Customer{
+	background-color: lightgray;
+	background-image: url(images/bg-icon.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.review .pera_wrap{
+	margin-left: 120px;
+	margin-top: -90px ;
+}
+.our{
+	margin: 60px 0px 0px 325px;
+}
+p{
+	font-size: 16px;
+}
+.products h6{
+	text-align: center;
+	margin-top: 20px;
+}
+.icons-1{
+	margin-left:5px;
+	margin-bottom: -30px;
+	font-size: 45px;
+	color: green;
+}
+.icons-2{
+	margin-left: 5px;
+	margin-bottom: -30px;
+	font-size: 45px;
+	color: darkred;
+}
+.icons-3{
+	margin-left: 5px;
+	margin-bottom: -30px;
+	font-size: 45px;
+	color: green;
+}
+.icon_wraper{
+	padding-right: 20px;
+}
+.Your_Email{
+	border:2px solid black;
+}
+.foody ul{
+	list-style-type: none;
+}
+.foody p li{
+	font-size:15px;
+}
+.fa-address-book{
+	color: green;
+}
+.fa-calendar-days{
+	color: green;
+	margin-left: 15px;
+	margin-right: 4px;
+}
+.Latest{
+	width: 100%;
+	background: white;
+	padding: 60px;
+	
+}
+.col_4 li{
+	font-size: 15px;
+}
